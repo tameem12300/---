@@ -13,7 +13,7 @@
 '''python
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
-...
+...'''
   это функция, которая определить команды для бота
 ## Команды для бота
 1. отправить команду /start для начала сообщения.
